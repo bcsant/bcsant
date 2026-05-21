@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Beatriz C. Santos
 
-**`Atualmente atuando como Coordenadora Pedagógica, estou em plena jornada de **migração de carreira para o Desenvolvimento Front-end**. Unindo meu background sólido em **Design Gráfico** e **Social Media** com o poder do código e da nuvem, busco criar experiências web que não são apenas funcionais, mas visualmente impecáveis e altamente engajadoras.**
+**Atualmente atuando como Coordenadora Pedagógica, estou em plena jornada de **migração de carreira para o Desenvolvimento Front-end**. Unindo meu background sólido em **Design Gráfico** e **Social Media** com o poder do código e da nuvem, busco criar experiências web que não são apenas funcionais, mas visualmente impecáveis e altamente engajadoras.**
 
 ---
 
