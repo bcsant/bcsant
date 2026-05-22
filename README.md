@@ -1,17 +1,5 @@
 # 👩🏻‍💻 Beatriz C. Santos
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Migração%20de%20Carreira-blueviolet?style=for-the-badge" style="border-radius: 8px;" alt="Status" />
-  <a href="https://github.com/bcsant">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bcsant?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" style="border-radius: 8px;" />
-  </a>
-  <a href="https://github.com/bcsant?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/bcsant?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" style="border-radius: 8px;" />
-  </a>
-</p>
-
-# 👩🏻‍💻 Beatriz C. Santos
-
 
 
 **Atualmente atuando como Coordenadora Pedagógica, estou em plena jornada de **migração de carreira para o Desenvolvimento Front-end**. Unindo meu background sólido em **Design Gráfico** e **Social Media** com o poder do código e da nuvem, busco criar experiências web que não são apenas funcionais, mas visualmente impecáveis e altamente engajadoras.**
@@ -303,13 +291,3 @@ Seja para bater um papo sobre Front-end, Design, AWS ou indicar uma série de cr
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 
 />
-
-### 📫 Vamos nos conectar?
-
-Seja para bater um papo sobre Front-end, Design, AWS ou indicar uma série de crimes reais:
-
-- **LinkedIn:** [linkedin.com/in/bcsant](https://www.linkedin.com/in/bcsant/)
-- **E-mail:** [biicsant@icloud.com](mailto:biicsant@icloud.com)
-
----
-<p align="center">Feito com ☕ e Código por Beatriz Santos</p>
