@@ -150,12 +150,3 @@ Seja para bater um papo sobre Front-end, Design, AWS ou indicar uma série de cr
 <br/>
 
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcsant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
