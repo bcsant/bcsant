@@ -149,12 +149,6 @@ Seja para bater um papo sobre Front-end, Design, AWS ou indicar uma série de cr
 <br/>
 <br/>
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bcsant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de bcsant" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biicsant&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por bcsant" height="180em" />
-</p>
 
 <img 
       align="left" 
