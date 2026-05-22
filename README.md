@@ -14,7 +14,7 @@
 ### 🛠️ Habilidades & Tecnologias
 
 **Front-end & Cloud:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5]([https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://www.google.com/search?sa=X&sca_esv=3e027c27d603e6ff&rlz=1C1GCEA_pt-BRBR1186BR1186&udm=2&sxsrf=ANbL-n7HrvERWQcIOMwfrPtBLjtnpyU5zA:1779467832329&q=html+logo+png+transparent&stick=H4sIAAAAAAAAAFvEKplRkpujkJOfnq9QkJeuUFKUmFdckFiUmlcCAAPcGQQcAAAA&source=univ&ved=2ahUKEwiu3qOgqs2UAxXDGbkGHaIJAxQQrNwCegQIPxAA&biw=1360&bih=607&dpr=1#sv=CAMSVhoyKhBlLWlVcXJ0ZDFhNS1rWlRNMg5pVXFydGQxYTUta1pUTToOVEhSQU5UbHdsMVdqWk0gBCocCgZtb3NhaWMSEGUtaVVxcnRkMWE1LWtaVE0YADABGAcg0u7BxARKCBABGAEgASgB))
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
