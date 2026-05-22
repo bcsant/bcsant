@@ -26,7 +26,7 @@
 
 #### 💻 Front-end, Back-end & Cloud
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" style="border-radius: 8px; padding-right: 10px;" alt="HTML5" title="HTML5" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="40" height="40" style="border-radius: 8px; padding-right: 10px;" alt="HTML5" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" style="border-radius: 8px; padding-right: 10px;" alt="CSS3" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" style="border-radius: 8px; padding-right: 10px;" alt="JavaScript" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" style="border-radius: 8px; padding-right: 10px;" alt="Git" title="Git" />
@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height="40" style="border-radius: 8px; padding-right: 10px;" alt="Illustrator" />
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" height="40" style="border-radius: 8px; padding-right: 10px;" alt="Blender" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="40" style="border-radius: 8px; padding-right: 10px;" alt="Canva" />
+  <img sec="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" height="40" style="border-radius: 8px; padding-right: 10px;" alt="Krita" />
 </p>
 
 ---
