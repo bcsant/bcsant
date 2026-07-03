@@ -20,6 +20,7 @@
 - 🎓 Formando-me no curso da **Escola da Nuvem (Foco em AWS Cloud Practitioner)** — expandindo meus horizontes para além do front-end.
 - 💻 Focada em transicionar de carreira para trabalhar exclusivamente com **Front-end e Social Media**.
 - 🛠️ No momento, estou transformando teoria em prática e focando na **construção de projetos reais** para o meu portfólio.
+- Certificação : https://www.credly.com/badges/7f00750e-c3d7-4c85-9974-5a72823ecc57/public_url
 
 ---
 
