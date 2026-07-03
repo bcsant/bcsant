@@ -21,7 +21,7 @@
 - 💻 Focada em transicionar de carreira para trabalhar exclusivamente com **Front-end e Social Media**.
 - 🛠️ No momento, estou transformando teoria em prática e focando na **construção de projetos reais** para o meu portfólio.
 - 🏆 Certificações ☁️ AWS Certified Cloud Practitioner (CLF-C02)
-- 🔗 Credencial: https://www.credly.com/badges/7f00750e-c3d7-4c85-9974-5a72823ecc57/public_url
+- 🔗 Credencial: https://www.credly.com/users/beatriz-santos.14e077bd
 
 ---
 
