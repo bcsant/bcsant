@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Migração%20de%20Carreira-blueviolet?style=for-the-badge" style="border-radius: 8px;" alt="Status" />
   <a href="https://github.com/bcsant">
+  </a>
   <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bcsant?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" style="border-radius: 8px;" />
   </a>
   <a href="https://github.com/bcsant?tab=followers">
